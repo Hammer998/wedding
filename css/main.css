@@ -280,7 +280,7 @@ a:hover {
 
 .faq p {
   font-family: 'Muli', sans-serif;
-  text-align: left;
+  text-align: center;
 }
 
 .question-group::after {
@@ -307,7 +307,7 @@ a:hover {
   }
 
   .question-group h3 {
-    text-align: left;
+    text-align: center;
   }
 
 }
