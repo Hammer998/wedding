@@ -230,23 +230,14 @@ a:hover {
 
 }
 
-.accommodation-list {
-  list-style: none;
-  padding: 0;
-  margin: 20px 0;
+.bullet-list {
+  list-style-type: disc; /* alapértelmezett pötty */
+  padding-left: 1.2em;
 }
 
-.accommodation-list li {
-  background: #f4f4f4;
-  padding: 10px 15px;
-  border-radius: 8px;
-  margin-bottom: 8px;
-}
-
-.accommodation-list li a {
-  color: #c27b00;
-  text-decoration: none;
-  font-weight: 500;
+.bullet-list li {
+  margin-bottom: 6px;
+  font-size: 1rem;
 }
 
 
