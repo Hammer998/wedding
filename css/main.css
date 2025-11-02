@@ -230,6 +230,26 @@ a:hover {
 
 }
 
+.accommodation-list {
+  list-style: none;
+  padding: 0;
+  margin: 20px 0;
+}
+
+.accommodation-list li {
+  background: #f4f4f4;
+  padding: 10px 15px;
+  border-radius: 8px;
+  margin-bottom: 8px;
+}
+
+.accommodation-list li a {
+  color: #c27b00;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+
 /* =============================
 
         GIFTS STYLES
